@@ -64,8 +64,9 @@ app/
 
 1. **Clonar el repositorio**
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
-   cd tarea1
+   git clone https://github.com/davidmanueldev/app-movil-basica-kotlin-unifranz.git
+   
+   cd app-movil-basica-kotlin-unifranz
    ```
 
 2. **Abrir en Android Studio**
